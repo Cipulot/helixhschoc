@@ -2322,7 +2322,7 @@ F 3 "" H 12900 2000 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L helixhschoc-rescue:MJ-4PP-9 J1
+L random-keyboard-parts:MJ-4PP-9 J1
 U 1 1 61C4F8E1
 P 7050 2650
 F 0 "J1" H 6572 2683 60  0000 R CNN

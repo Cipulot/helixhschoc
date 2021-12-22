@@ -190,19 +190,6 @@ X pwr 1 0 0 0 U 20 20 0 0 w
 ENDDRAW
 ENDDEF
 #
-# helixhschoc-rescue_PWR_FLAG-helix-cache-2019-03-21-22-27-31-helix-rescue-helixhschoc-rescue
-#
-DEF helixhschoc-rescue_PWR_FLAG-helix-cache-2019-03-21-22-27-31-helix-rescue-helixhschoc-rescue #FLG 0 0 N N 1 F P
-F0 "#FLG" 0 95 50 H I C CNN
-F1 "helixhschoc-rescue_PWR_FLAG-helix-cache-2019-03-21-22-27-31-helix-rescue-helixhschoc-rescue" 0 180 50 H V C CNN
-F2 "" 0 0 50 H V C CNN
-F3 "" 0 0 50 H V C CNN
-DRAW
-P 6 0 1 0 0 0 0 50 -75 100 0 150 75 100 0 50 N
-X pwr 1 0 0 0 U 20 20 0 0 w
-ENDDRAW
-ENDDEF
-#
 # helixhschoc-rescue_ProMicro
 #
 DEF helixhschoc-rescue_ProMicro U 0 40 Y Y 1 F N
