@@ -1,4 +1,4 @@
-19832920351805177
+19842773605910971
 Alps_Only
 ALPS-1.5U
 
@@ -56650,6 +56650,27 @@ Yellow 5381 Series LED
 0
 2
 2
+LED_WS_SK
+SK6812MINI_rev
+
+
+0
+8
+4
+LED_WS_SK
+WS2812B
+
+
+0
+4
+4
+LED_WS_SK
+WS2812B_data-bridgeable
+
+
+0
+12
+4
 Logos
 Double_flower_helix
 
@@ -76776,6 +76797,13 @@ Jumper-UserFriendly-Small
 2
 2
 Random-keyboard-parts
+Jumper_Small
+
+
+0
+2
+2
+Random-keyboard-parts
 LED-6028
 
 
@@ -76796,6 +76824,13 @@ LED diameter 3.0mm 2 pins
 0
 2
 2
+Random-keyboard-parts
+LED_Strip_Pad
+
+
+0
+6
+3
 Random-keyboard-parts
 MJ-4PP-9
 
@@ -76818,6 +76853,13 @@ Molex-0548190589
 9
 6
 Random-keyboard-parts
+OLED_Small
+
+
+0
+4
+4
+Random-keyboard-parts
 PJ-3200B-4A
 
 
@@ -76831,6 +76873,13 @@ PJ-3200B-4A-Assembly
 0
 4
 4
+Random-keyboard-parts
+Pin_Small
+
+
+0
+1
+1
 Random-keyboard-parts
 PushButton_6x6mm_TH
 
@@ -76887,6 +76936,13 @@ SOT143B
 0
 4
 4
+Random-keyboard-parts
+SW_3.5x6.0_TH
+
+
+0
+2
+2
 Random-keyboard-parts
 USB-A-Generic
 
@@ -85630,20 +85686,6 @@ varistor SIOV
 0
 2
 2
-WS2812B
-WS2812B
-
-
-0
-4
-4
-WS2812B
-WS2812B_data-bridgeable
-
-
-0
-12
-4
 eec
 Linear_Technology-LTC6255IS6TRMPBF-Level_A
 
