@@ -1,4 +1,4 @@
-19824720549703023
+19831280207120436
 Alps_Only
 ALPS-1.5U
 
@@ -84174,6 +84174,13 @@ test point THT pad
 0
 1
 1
+Topre
+Topre
+
+
+0
+3
+3
 Transformer_SMD
 Pulse_P0926NL
 SMT Gate Drive Transformer, 1:1:1, 8.0x6.3x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)
@@ -85630,6 +85637,27 @@ WS2812B_data-bridgeable
 0
 12
 4
+eec
+Linear_Technology-LTC6255IS6TRMPBF-Level_A
+
+
+0
+6
+6
+eec
+Linear_Technology-LTC6255IS6TRMPBF-Level_B
+
+
+0
+6
+6
+eec
+Linear_Technology-LTC6255IS6TRMPBF-Level_C
+
+
+0
+6
+6
 promicro
 ProMicro
 Pro Micro footprint
