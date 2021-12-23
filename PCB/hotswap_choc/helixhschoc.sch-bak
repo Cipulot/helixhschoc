@@ -603,7 +603,7 @@ U 1 1 598B49C2
 P 2600 4850
 F 0 "P3" H 2600 5100 50  0000 C CNN
 F 1 "OLED" V 2700 4850 50  0000 C CNN
-F 2 "MYLIB:MY_SIL-4" H 2600 4850 50  0001 C CNN
+F 2 "Random-keyboard-parts:OLED_Small" H 2600 4850 50  0001 C CNN
 F 3 "" H 2600 4850 50  0000 C CNN
 	1    2600 4850
 	-1   0    0    -1  
@@ -640,7 +640,7 @@ U 1 1 598DBE0E
 P 6600 4850
 F 0 "P4" H 6600 5050 50  0000 C CNN
 F 1 "LED" V 6700 4850 50  0000 C CNN
-F 2 "MYLIB_REV:StripLED_rev" H 6600 4850 50  0001 C CNN
+F 2 "Random-keyboard-parts:LED_Strip_Pad" H 6600 4850 50  0001 C CNN
 F 3 "" H 6600 4850 50  0000 C CNN
 	1    6600 4850
 	-1   0    0    -1  
@@ -819,7 +819,7 @@ U 1 1 59FFEBF9
 P 6100 3150
 F 0 "P1" V 6200 3150 50  0000 C CNN
 F 1 "CONN_01X01" V 6200 3150 50  0001 C CNN
-F 2 "MYLIB:1PIN_0.1" H 6100 3150 50  0001 C CNN
+F 2 "Random-keyboard-parts:Pin_Small" H 6100 3150 50  0001 C CNN
 F 3 "" H 6100 3150 50  0000 C CNN
 	1    6100 3150
 	0    1    1    0   
@@ -830,7 +830,7 @@ U 1 1 5A004496
 P 6100 2300
 F 0 "P2" V 6200 2300 50  0000 C CNN
 F 1 "CONN_01X01" V 6200 2300 50  0001 C CNN
-F 2 "MYLIB:1PIN_0.1" H 6100 2300 50  0001 C CNN
+F 2 "Random-keyboard-parts:Pin_Small" H 6100 2300 50  0001 C CNN
 F 3 "" H 6100 2300 50  0000 C CNN
 	1    6100 2300
 	0    -1   -1   0   
@@ -838,12 +838,12 @@ $EndComp
 Text GLabel 5400 2900 0    60   Input ~ 0
 data
 $Comp
-L helixhschoc-rescue:JP2 JP5
+L random-keyboard-parts:Jumper_Small JP5
 U 1 1 5A035264
 P 3400 4900
 F 0 "JP5" V 3500 4900 50  0000 C CNN
 F 1 "VCC" H 3500 4751 40  0001 C CNN
-F 2 "MYLIB:Jumper" H 3400 4900 60  0001 C CNN
+F 2 "Random-keyboard-parts:Jumper_Small" H 3400 4900 60  0001 C CNN
 F 3 "" H 3400 4900 60  0000 C CNN
 	1    3400 4900
 	0    1    1    0   
@@ -854,18 +854,18 @@ U 1 1 5A0354C4
 P 3400 5100
 F 0 "JP6" V 3500 5100 50  0000 C CNN
 F 1 "SCL" H 3500 4951 40  0001 C CNN
-F 2 "MYLIB:Jumper" H 3400 5100 60  0001 C CNN
+F 2 "Random-keyboard-parts:Jumper_Small" H 3400 5100 60  0001 C CNN
 F 3 "" H 3400 5100 60  0000 C CNN
 	1    3400 5100
 	0    1    1    0   
 $EndComp
 $Comp
-L helixhschoc-rescue:JP2 JP7
+L random-keyboard-parts:Jumper_Small JP7
 U 1 1 5A035690
 P 3400 5300
 F 0 "JP7" V 3500 5300 50  0000 C CNN
 F 1 "SDA" H 3500 5151 40  0001 C CNN
-F 2 "MYLIB:Jumper" H 3400 5300 60  0001 C CNN
+F 2 "Random-keyboard-parts:Jumper_Small" H 3400 5300 60  0001 C CNN
 F 3 "" H 3400 5300 60  0000 C CNN
 	1    3400 5300
 	0    1    1    0   
@@ -886,45 +886,45 @@ $EndComp
 Text Label 3600 5800 0    60   ~ 0
 SDA
 $Comp
-L helixhschoc-rescue:JP2 JP8
+L random-keyboard-parts:Jumper_Small JP8
 U 1 1 5A039B49
 P 3400 5800
 F 0 "JP8" V 3500 5800 50  0000 C CNN
 F 1 "SDA" H 3500 5651 40  0001 C CNN
-F 2 "MYLIB:Jumper" H 3400 5800 60  0001 C CNN
+F 2 "Random-keyboard-parts:Jumper_Small" H 3400 5800 60  0001 C CNN
 F 3 "" H 3400 5800 60  0000 C CNN
 	1    3400 5800
 	0    1    1    0   
 $EndComp
 $Comp
-L helixhschoc-rescue:JP2 JP9
+L random-keyboard-parts:Jumper_Small JP9
 U 1 1 5A039B4F
 P 3400 6000
 F 0 "JP9" V 3500 6000 50  0000 C CNN
 F 1 "SCL" H 3500 5851 40  0001 C CNN
-F 2 "MYLIB:Jumper" H 3400 6000 60  0001 C CNN
+F 2 "Random-keyboard-parts:Jumper_Small" H 3400 6000 60  0001 C CNN
 F 3 "" H 3400 6000 60  0000 C CNN
 	1    3400 6000
 	0    1    1    0   
 $EndComp
 $Comp
-L helixhschoc-rescue:JP2 JP10
+L random-keyboard-parts:Jumper_Small JP10
 U 1 1 5A039B55
 P 3400 6200
 F 0 "JP10" V 3500 6200 50  0000 C CNN
 F 1 "VCC" H 3500 6051 40  0001 C CNN
-F 2 "MYLIB:Jumper" H 3400 6200 60  0001 C CNN
+F 2 "Random-keyboard-parts:Jumper_Small" H 3400 6200 60  0001 C CNN
 F 3 "" H 3400 6200 60  0000 C CNN
 	1    3400 6200
 	0    1    1    0   
 $EndComp
 $Comp
-L helixhschoc-rescue:JP2 JP11
+L random-keyboard-parts:Jumper_Small JP11
 U 1 1 5A039B5B
 P 3400 6400
 F 0 "JP11" V 3500 6400 50  0000 C CNN
 F 1 "GND" H 3500 6251 40  0001 C CNN
-F 2 "MYLIB:Jumper" H 3400 6400 60  0001 C CNN
+F 2 "Random-keyboard-parts:Jumper_Small" H 3400 6400 60  0001 C CNN
 F 3 "" H 3400 6400 60  0000 C CNN
 	1    3400 6400
 	0    1    1    0   
@@ -1593,7 +1593,7 @@ U 1 1 5CBE51DD
 P 6050 6300
 F 0 "H2" H 6150 6346 50  0000 L CNN
 F 1 "MountingHole" H 6150 6255 50  0000 L CNN
-F 2 "JMG:HOLE_M2_TH" H 6050 6300 50  0001 C CNN
+F 2 "Random-keyboard-parts:HOLE_M2_TH" H 6050 6300 50  0001 C CNN
 F 3 "~" H 6050 6300 50  0001 C CNN
 	1    6050 6300
 	1    0    0    -1  
@@ -1604,7 +1604,7 @@ U 1 1 5CBE541A
 P 6050 6500
 F 0 "H1" H 6150 6546 50  0000 L CNN
 F 1 "MountingHole" H 6150 6455 50  0000 L CNN
-F 2 "JMG:HOLE_M2_TH" H 6050 6500 50  0001 C CNN
+F 2 "Random-keyboard-parts:HOLE_M2_TH" H 6050 6500 50  0001 C CNN
 F 3 "~" H 6050 6500 50  0001 C CNN
 	1    6050 6500
 	1    0    0    -1  
@@ -1615,7 +1615,7 @@ U 1 1 5CBE7733
 P 6050 6700
 F 0 "H3" H 6150 6746 50  0000 L CNN
 F 1 "MountingHole" H 6150 6655 50  0000 L CNN
-F 2 "JMG:HOLE_M2_TH" H 6050 6700 50  0001 C CNN
+F 2 "Random-keyboard-parts:HOLE_M2_TH" H 6050 6700 50  0001 C CNN
 F 3 "~" H 6050 6700 50  0001 C CNN
 	1    6050 6700
 	1    0    0    -1  
@@ -1626,7 +1626,7 @@ U 1 1 5CBE78D5
 P 6050 6900
 F 0 "H4" H 6150 6946 50  0000 L CNN
 F 1 "MountingHole" H 6150 6855 50  0000 L CNN
-F 2 "JMG:HOLE_M2_TH" H 6050 6900 50  0001 C CNN
+F 2 "Random-keyboard-parts:HOLE_M2_TH" H 6050 6900 50  0001 C CNN
 F 3 "~" H 6050 6900 50  0001 C CNN
 	1    6050 6900
 	1    0    0    -1  
@@ -1637,7 +1637,7 @@ U 1 1 5CBE7A74
 P 6750 6250
 F 0 "H5" H 6850 6296 50  0000 L CNN
 F 1 "MountingHole" H 6850 6205 50  0000 L CNN
-F 2 "JMG:HOLE_M2_TH" H 6750 6250 50  0001 C CNN
+F 2 "Random-keyboard-parts:HOLE_M2_TH" H 6750 6250 50  0001 C CNN
 F 3 "~" H 6750 6250 50  0001 C CNN
 	1    6750 6250
 	1    0    0    -1  
@@ -1648,7 +1648,7 @@ U 1 1 5CBE7C98
 P 6750 6450
 F 0 "H6" H 6850 6496 50  0000 L CNN
 F 1 "MountingHole" H 6850 6405 50  0000 L CNN
-F 2 "JMG:HOLE_M2_TH" H 6750 6450 50  0001 C CNN
+F 2 "Random-keyboard-parts:HOLE_M2_TH" H 6750 6450 50  0001 C CNN
 F 3 "~" H 6750 6450 50  0001 C CNN
 	1    6750 6450
 	1    0    0    -1  
@@ -1659,7 +1659,7 @@ U 1 1 5CBE7E3F
 P 6750 6650
 F 0 "H7" H 6850 6696 50  0000 L CNN
 F 1 "MountingHole" H 6850 6605 50  0000 L CNN
-F 2 "JMG:HOLE_M2_TH" H 6750 6650 50  0001 C CNN
+F 2 "Random-keyboard-parts:HOLE_M2_TH" H 6750 6650 50  0001 C CNN
 F 3 "~" H 6750 6650 50  0001 C CNN
 	1    6750 6650
 	1    0    0    -1  
@@ -1670,7 +1670,7 @@ U 1 1 5CBE8613
 P 6750 6850
 F 0 "H8" H 6850 6896 50  0000 L CNN
 F 1 "MountingHole" H 6850 6805 50  0000 L CNN
-F 2 "JMG:HOLE_M2_TH" H 6750 6850 50  0001 C CNN
+F 2 "Random-keyboard-parts:HOLE_M2_TH" H 6750 6850 50  0001 C CNN
 F 3 "~" H 6750 6850 50  0001 C CNN
 	1    6750 6850
 	1    0    0    -1  
@@ -1681,7 +1681,7 @@ U 1 1 5CBE87B7
 P 6750 7050
 F 0 "H9" H 6850 7096 50  0000 L CNN
 F 1 "MountingHole" H 6850 7005 50  0000 L CNN
-F 2 "JMG:HOLE_M2_TH" H 6750 7050 50  0001 C CNN
+F 2 "Random-keyboard-parts:HOLE_M2_TH" H 6750 7050 50  0001 C CNN
 F 3 "~" H 6750 7050 50  0001 C CNN
 	1    6750 7050
 	1    0    0    -1  
@@ -1692,7 +1692,7 @@ U 1 1 5CBEFBD4
 P 6050 7400
 F 0 "H10" H 6150 7446 50  0000 L CNN
 F 1 "MountingHole" H 6150 7355 50  0000 L CNN
-F 2 "JMG:HOLE_M2" H 6050 7400 50  0001 C CNN
+F 2 "Random-keyboard-parts:HOLE_M2" H 6050 7400 50  0001 C CNN
 F 3 "~" H 6050 7400 50  0001 C CNN
 	1    6050 7400
 	1    0    0    -1  
@@ -1703,7 +1703,7 @@ U 1 1 5CBEFD9B
 P 6750 7400
 F 0 "H12" H 6850 7446 50  0000 L CNN
 F 1 "MountingHole" H 6850 7355 50  0000 L CNN
-F 2 "JMG:HOLE_M2" H 6750 7400 50  0001 C CNN
+F 2 "Random-keyboard-parts:HOLE_M2" H 6750 7400 50  0001 C CNN
 F 3 "~" H 6750 7400 50  0001 C CNN
 	1    6750 7400
 	1    0    0    -1  
@@ -1714,7 +1714,7 @@ U 1 1 5CBEFF57
 P 6050 7600
 F 0 "H11" H 6150 7646 50  0000 L CNN
 F 1 "MountingHole" H 6150 7555 50  0000 L CNN
-F 2 "JMG:HOLE_M2" H 6050 7600 50  0001 C CNN
+F 2 "Random-keyboard-parts:HOLE_M2" H 6050 7600 50  0001 C CNN
 F 3 "~" H 6050 7600 50  0001 C CNN
 	1    6050 7600
 	1    0    0    -1  
@@ -1725,7 +1725,7 @@ U 1 1 5CBF010C
 P 6750 7600
 F 0 "H13" H 6850 7646 50  0000 L CNN
 F 1 "MountingHole" H 6850 7555 50  0000 L CNN
-F 2 "JMG:HOLE_M2" H 6750 7600 50  0001 C CNN
+F 2 "Random-keyboard-parts:HOLE_M2" H 6750 7600 50  0001 C CNN
 F 3 "~" H 6750 7600 50  0001 C CNN
 	1    6750 7600
 	1    0    0    -1  
@@ -2335,12 +2335,12 @@ F 3 "" H 3600 4700 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L helixhschoc-rescue:JP2 JP4
+L random-keyboard-parts:Jumper_Small JP4
 U 1 1 5A032534
 P 3400 4700
 F 0 "JP4" V 3500 4700 50  0000 C CNN
 F 1 "GND" H 3500 4551 40  0001 C CNN
-F 2 "MYLIB:Jumper" H 3400 4700 60  0001 C CNN
+F 2 "Random-keyboard-parts:Jumper_Small" H 3400 4700 60  0001 C CNN
 F 3 "" H 3400 4700 60  0000 C CNN
 	1    3400 4700
 	0    1    1    0   
