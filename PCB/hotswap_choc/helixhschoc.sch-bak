@@ -1692,7 +1692,7 @@ U 1 1 5CBEFBD4
 P 6050 7400
 F 0 "H10" H 6150 7446 50  0000 L CNN
 F 1 "MountingHole" H 6150 7355 50  0000 L CNN
-F 2 "Random-keyboard-parts:HOLE_M2" H 6050 7400 50  0001 C CNN
+F 2 "cipulot_parts:HOLE_M2" H 6050 7400 50  0001 C CNN
 F 3 "~" H 6050 7400 50  0001 C CNN
 	1    6050 7400
 	1    0    0    -1  
@@ -1703,7 +1703,7 @@ U 1 1 5CBEFD9B
 P 6750 7400
 F 0 "H12" H 6850 7446 50  0000 L CNN
 F 1 "MountingHole" H 6850 7355 50  0000 L CNN
-F 2 "Random-keyboard-parts:HOLE_M2" H 6750 7400 50  0001 C CNN
+F 2 "cipulot_parts:HOLE_M2" H 6750 7400 50  0001 C CNN
 F 3 "~" H 6750 7400 50  0001 C CNN
 	1    6750 7400
 	1    0    0    -1  
@@ -1714,7 +1714,7 @@ U 1 1 5CBEFF57
 P 6050 7600
 F 0 "H11" H 6150 7646 50  0000 L CNN
 F 1 "MountingHole" H 6150 7555 50  0000 L CNN
-F 2 "Random-keyboard-parts:HOLE_M2" H 6050 7600 50  0001 C CNN
+F 2 "cipulot_parts:HOLE_M2" H 6050 7600 50  0001 C CNN
 F 3 "~" H 6050 7600 50  0001 C CNN
 	1    6050 7600
 	1    0    0    -1  
@@ -1725,7 +1725,7 @@ U 1 1 5CBF010C
 P 6750 7600
 F 0 "H13" H 6850 7646 50  0000 L CNN
 F 1 "MountingHole" H 6850 7555 50  0000 L CNN
-F 2 "Random-keyboard-parts:HOLE_M2" H 6750 7600 50  0001 C CNN
+F 2 "cipulot_parts:HOLE_M2" H 6750 7600 50  0001 C CNN
 F 3 "~" H 6750 7600 50  0001 C CNN
 	1    6750 7600
 	1    0    0    -1  
@@ -1736,7 +1736,7 @@ U 1 1 5986AC91
 P 9500 2000
 F 0 "SW1" H 9650 2110 50  0000 C CNN
 F 1 "SW_PUSH" H 9500 1920 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 9500 2000 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 9500 2000 50  0001 C CNN
 F 3 "" H 9500 2000 50  0000 C CNN
 	1    9500 2000
 	1    0    0    -1  

@@ -1,4 +1,4 @@
-19834876583121476
+20069474914405922
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83027,6 +83027,20 @@ varistor SIOV
 2
 2
 cipulot_parts
+3_Pin_Jumper
+
+
+0
+9
+3
+cipulot_parts
+4pin35mmAudio
+
+
+0
+6
+6
+cipulot_parts
 6.25U-ReversedStabilizers
 
 
@@ -83244,6 +83258,76 @@ ALPS-LEDONLY-FLIPPED
 2
 2
 cipulot_parts
+AST1109MLTRQ
+Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
+Murata Buzzer Beeper
+0
+2
+2
+cipulot_parts
+AT90USB1286_TQFP_14mm
+64-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+64
+64
+cipulot_parts
+ATMEGA32U4-AU
+
+
+0
+44
+44
+cipulot_parts
+ArduinoProMicro
+
+
+0
+24
+24
+cipulot_parts
+ArduinoProMicro-BackSide
+
+
+0
+24
+24
+cipulot_parts
+ArduinoProMicro-Mini-USB
+
+
+0
+24
+24
+cipulot_parts
+ArduinoProMicro-Mini-USB-No-Text
+
+
+0
+24
+24
+cipulot_parts
+ArduinoProMicro-Mini-USB-ZigZag
+
+
+0
+24
+24
+cipulot_parts
+ArduinoProMicro-TopSide
+
+
+0
+24
+24
+cipulot_parts
+ArduinoProMicro-ZigZag
+
+
+0
+24
+24
+cipulot_parts
 Arduino_Micro
 Arduino Micro
 Arduino Micro
@@ -83272,6 +83356,55 @@ Arduino Pro Mini
 28
 28
 cipulot_parts
+CUI_SJ-43614-SMT
+
+
+0
+4
+4
+cipulot_parts
+C_0402
+Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)
+capacitor 0402
+0
+2
+2
+cipulot_parts
+C_0603
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+cipulot_parts
+Cherry-MX-Low-Profile
+
+
+0
+2
+2
+cipulot_parts
+Crystal_SMD_2520-4pin_2.5x2.0mm
+SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+cipulot_parts
+Crystal_SMD_3225-4pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+cipulot_parts
+D_0805
+
+
+0
+2
+2
+cipulot_parts
 D_SOD-123-Pretty
 SOD-123
 SOD-123
@@ -83284,6 +83417,62 @@ SOD-123
 SOD-123
 0
 4
+2
+cipulot_parts
+D_SOD-323
+SOD-323
+SOD-323
+0
+2
+2
+cipulot_parts
+D_SOD123
+
+
+0
+2
+2
+cipulot_parts
+D_SOD123F
+
+
+0
+2
+2
+cipulot_parts
+Diode
+
+
+0
+2
+2
+cipulot_parts
+Diode-Hybrid-Back
+
+
+0
+6
+2
+cipulot_parts
+Diode-dual
+
+
+0
+10
+2
+cipulot_parts
+Diode-hybrid-3pad
+
+
+0
+6
+2
+cipulot_parts
+Diode_Long
+
+
+0
+2
 2
 cipulot_parts
 Diode_SMD_THT_DUAL
@@ -83299,6 +83488,62 @@ Double_flower_helix
 0
 0
 0
+cipulot_parts
+Elite-C
+
+
+0
+29
+29
+cipulot_parts
+Elite-C-ZigZag
+
+
+0
+29
+29
+cipulot_parts
+Elite-C-castellated-24pin
+
+
+0
+24
+24
+cipulot_parts
+Elite-C-castellated-24pin-holes
+
+
+0
+48
+24
+cipulot_parts
+Elite-C-castellated-29pin
+
+
+0
+29
+29
+cipulot_parts
+Elite-C-castellated-29pin-holes
+
+
+0
+58
+29
+cipulot_parts
+Epson_TSX-3225
+
+
+0
+4
+4
+cipulot_parts
+Fuse_0805
+SMT, 2012, 0805
+SMT, 2012, 0805
+0
+2
+2
 cipulot_parts
 Generic-Mounthole
 
@@ -83349,12 +83594,47 @@ HRO-TYPE-C-31-M-13
 16
 13
 cipulot_parts
+Header-6-Pin-ZigZag
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
+cipulot_parts
+Header-12-Pin-ZigZag
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+12
+12
+cipulot_parts
+Header-12-Pin-ZigZag-Square
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+12
+12
+cipulot_parts
 Helix_logo_small
 
 
 0
 0
 0
+cipulot_parts
+ICSP-Header
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
+cipulot_parts
+ICSP-Header-ZigZag
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
 cipulot_parts
 IronMan
 
@@ -83384,6 +83664,13 @@ JST-SR-4
 6
 4
 cipulot_parts
+JUMPER_SMD_2DUB
+
+
+0
+12
+2
+cipulot_parts
 Jumper-UserFriendly
 
 
@@ -83399,6 +83686,104 @@ Jumper-UserFriendly-Small
 2
 cipulot_parts
 Jumper_Small
+
+
+0
+2
+2
+cipulot_parts
+KLJ-1102
+
+
+0
+2
+2
+cipulot_parts
+Kailh-PG1350-1.5u
+
+
+0
+4
+4
+cipulot_parts
+Kailh-PG1350-1.25u
+
+
+0
+4
+4
+cipulot_parts
+Kailh-PG1350-1.25u-LED-flip
+
+
+0
+4
+4
+cipulot_parts
+Kailh-PG1350-1u
+
+
+0
+4
+4
+cipulot_parts
+Kailh-PG1350-1u-No-Clickhole
+
+
+0
+4
+4
+cipulot_parts
+Kailh-PG1350-1u-NoLED
+
+
+0
+2
+2
+cipulot_parts
+Kailh-PG1350-1u-reversible
+
+
+0
+5
+4
+cipulot_parts
+Kailh-PG1350-1u-reversible-No-Clickhole
+
+
+0
+5
+4
+cipulot_parts
+Kailh-PG1350-1u-reversible-flip
+
+
+0
+5
+4
+cipulot_parts
+Kailh-PG1350-2.5u
+
+
+0
+4
+4
+cipulot_parts
+Kailh-PG1350-2u
+
+
+0
+4
+4
+cipulot_parts
+Kailh-PG1350-2u-NoLED
+
+
+0
+2
+2
+cipulot_parts
+Kailh-PG1350-2u-Vert-NoLED
 
 
 0
@@ -83531,6 +83916,13 @@ LED-6028
 2
 2
 cipulot_parts
+LED_3mm
+
+
+0
+2
+2
+cipulot_parts
 LED_D3.0mm-NoSilk
 LED, diameter 3.0mm, 2 pins
 LED diameter 3.0mm 2 pins
@@ -83551,6 +83943,27 @@ LED_Strip_Pad
 0
 6
 3
+cipulot_parts
+LQFP-48_7x7mm_Pitch0.5mm
+48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
+0
+48
+48
+cipulot_parts
+Low-Profile-Choc-MX
+
+
+0
+5
+4
+cipulot_parts
+MD_Diode
+
+
+0
+2
+2
 cipulot_parts
 MJ-4PP-9
 
@@ -84217,6 +84630,104 @@ MX-10U-ReversedStabilizers-NoLED
 4
 2
 cipulot_parts
+MX-Alps-Choc-1U
+
+
+0
+8
+4
+cipulot_parts
+MX-Alps-Choc-1U-No-Clickhole
+
+
+0
+8
+4
+cipulot_parts
+MX-Alps-Choc-1U-NoLED
+
+
+0
+6
+2
+cipulot_parts
+MX-Alps-Choc-1U-NoLED-Alt
+
+
+0
+6
+2
+cipulot_parts
+MX-Alps-Choc-2U
+
+
+0
+8
+4
+cipulot_parts
+MX-Alps-Choc-2U-StabFlip
+
+
+0
+8
+4
+cipulot_parts
+MX-Alps_DMask
+
+
+0
+2
+1
+cipulot_parts
+MX-Alps_FMask
+
+
+0
+2
+1
+cipulot_parts
+MX-Alps_FMask-2u
+
+
+0
+2
+1
+cipulot_parts
+MX-Alps_Switch_Cutout
+
+
+0
+2
+1
+cipulot_parts
+MX-Alps_Switch_Cutout-1u_1.25u
+
+
+0
+0
+0
+cipulot_parts
+MX-Alps_Switch_Cutout-1u_1.25u-3u-wide
+
+
+0
+0
+0
+cipulot_parts
+MX-Alps_Switch_Cutout-1u_2u
+
+
+0
+2
+1
+cipulot_parts
+MX-Alps_Switch_Cutout-3u-wide
+
+
+0
+0
+0
+cipulot_parts
 MX-ISO
 
 
@@ -84257,6 +84768,13 @@ MX-LEDONLY-FLIPPED
 
 0
 2
+2
+cipulot_parts
+MX-Quad
+MX/Alps footprint
+
+0
+8
 2
 cipulot_parts
 MXOnly-1.5U
@@ -85365,6 +85883,76 @@ MXOnly-LEDONLY-FLIPPED
 2
 2
 cipulot_parts
+MX_FMask
+
+
+0
+2
+1
+cipulot_parts
+MX_FMask-2u
+
+
+0
+3
+1
+cipulot_parts
+MX_FMask-2u-with-cutout
+
+
+0
+2
+1
+cipulot_parts
+MX_FMask-with-cutout
+
+
+0
+2
+1
+cipulot_parts
+MX_LED
+
+
+0
+2
+2
+cipulot_parts
+MX_Stabilizer_Cutout
+
+
+0
+0
+0
+cipulot_parts
+MX_Stabilizer_Cutout-2u
+
+
+0
+0
+0
+cipulot_parts
+MX_Switch_Cutout
+
+
+0
+0
+0
+cipulot_parts
+MX_Switch_Mod_Cutout
+
+
+0
+0
+0
+cipulot_parts
+Mini-USB
+
+
+0
+7
+6
+cipulot_parts
 Molex-0548190519
 
 
@@ -85378,6 +85966,13 @@ Molex-0548190589
 0
 9
 6
+cipulot_parts
+MountingHole
+
+
+0
+1
+0
 cipulot_parts
 OLED_Small
 
@@ -85442,12 +86037,61 @@ PushButton_6x6mm_TH_Pretty
 4
 4
 cipulot_parts
+QFN-44-1EP_7x7mm_Pitch0.5mm
+UK Package; 44-Lead Plastic QFN (7mm x 7mm); (see Linear Technology QFN_44_05-08-1763.pdf)
+QFN 0.5
+0
+60
+45
+cipulot_parts
 RGB-6028
 
 
 0
 4
 4
+cipulot_parts
+RGB_3528_Blue_Notch
+RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
+LED 3227
+0
+4
+4
+cipulot_parts
+RGB_3528_Blue_Notch-MX
+RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
+LED 3227
+0
+4
+4
+cipulot_parts
+RGB_3528_Blue_Notch-MX-Flip
+RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
+LED 3227
+0
+4
+4
+cipulot_parts
+R_0402
+Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0402
+0
+2
+2
+cipulot_parts
+R_0603
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+cipulot_parts
+R_0805
+SMT, 2012, 0805
+SMT, 2012, 0805
+0
+2
+2
 cipulot_parts
 Reset_Pretty
 
@@ -85462,6 +86106,69 @@ Reset_Pretty-Mask
 0
 6
 6
+cipulot_parts
+Resistor
+
+
+0
+2
+2
+cipulot_parts
+Resistor-Compact
+
+
+0
+2
+2
+cipulot_parts
+Resistor-Compact-1-side
+
+
+0
+2
+2
+cipulot_parts
+Resistor-Hybrid
+
+
+0
+10
+2
+cipulot_parts
+Resistor-Hybrid-Back
+
+
+0
+6
+2
+cipulot_parts
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+cipulot_parts
+RotaryEncoder_EC11
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+cipulot_parts
+RotaryEncoder_EC11-no-legs
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+cipulot_parts
+SK6812-MINI-E
+
+
+0
+4
+4
 cipulot_parts
 SK6812MINI_rev
 
@@ -85483,6 +86190,48 @@ SKQGADE010
 0
 4
 4
+cipulot_parts
+SM0805D
+
+
+0
+2
+2
+cipulot_parts
+SOIC-8_3.9x4.9mm_Pitch1.27mm
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+cipulot_parts
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+cipulot_parts
+SOT-23_Handsoldering
+SOT-23, Handsoldering
+SOT-23
+0
+3
+3
+cipulot_parts
+SOT-143B
+SOT143B
+
+0
+4
+4
+cipulot_parts
+SOT-363_SC-70-6
+SOT-363, SC-70-6
+SOT-363 SC-70-6
+0
+6
+6
 cipulot_parts
 SOT143B
 
@@ -85547,12 +86296,47 @@ kailh,choc
 6
 2
 cipulot_parts
+SW_SPST_3x3
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+cipulot_parts
+SW_SPST_TL3342
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+cipulot_parts
+SW_Tactile_SPST_Angled_MJTP1117
+tactile switch SPST right angle, PTS645VL39-2 LFS
+tactile switch SPST angled PTS645VL39-2 LFS C&K Button
+0
+4
+2
+cipulot_parts
+SW_Tactile_SPST_Angled_MJTP1117-no-mount
+tactile switch SPST right angle, PTS645VL39-2 LFS
+tactile switch SPST angled PTS645VL39-2 LFS C&K Button
+0
+2
+2
+cipulot_parts
 Sheepy
 
 
 0
 0
 0
+cipulot_parts
+SinglePad
+
+
+0
+1
+1
 cipulot_parts
 Single_flower_helix
 
@@ -85567,6 +86351,55 @@ Sleepy
 0
 0
 0
+cipulot_parts
+SolderJumper
+
+
+0
+4
+3
+cipulot_parts
+SolderJumperLeft
+
+
+0
+3
+3
+cipulot_parts
+SolderJumperPair
+
+
+0
+6
+3
+cipulot_parts
+SolderJumperRight
+
+
+0
+3
+3
+cipulot_parts
+SolderJumperSet
+
+
+0
+12
+6
+cipulot_parts
+SolderJumperSets
+
+
+0
+6
+2
+cipulot_parts
+SolidCopper
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+2
+1
 cipulot_parts
 Sparkfun_Pro_Micro
 Sparkfun Pro Micro
@@ -85589,12 +86422,124 @@ MX,cherry,gateron,kailh,pg1511,stabilizer,stab
 0
 0
 cipulot_parts
+TQFP-44_10x10mm_Pitch0.8mm
+44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+44
+44
+cipulot_parts
+TQFP-48_7x7mm_Pitch0.5mm
+48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
+0
+48
+48
+cipulot_parts
+TRRS-PJ-320A
+
+
+0
+4
+4
+cipulot_parts
+TRRS-PJ-320A-dual
+
+
+0
+5
+4
+cipulot_parts
+TRRS-PJ-320A-no-Fmask
+
+
+0
+8
+4
+cipulot_parts
+TRRS-PJ-320D
+
+
+0
+4
+4
+cipulot_parts
+TRRS-PJ-605
+
+
+0
+6
+6
+cipulot_parts
+TRRS-PJ-606
+
+
+0
+6
+6
+cipulot_parts
+TRRS_Jack
+
+
+0
+6
+6
+cipulot_parts
+TRRS_Jack-one-sided
+
+
+0
+4
+4
+cipulot_parts
+TRRS_Jumper
+
+
+0
+6
+6
+cipulot_parts
+Teensy_2.0
+
+
+0
+31
+31
+cipulot_parts
 Topre
 
 
 0
 3
 3
+cipulot_parts
+Triple-Dual-1u-LED
+
+
+0
+21
+4
+cipulot_parts
+Triple-Dual-1u-LED-flip
+
+
+0
+21
+4
+cipulot_parts
+Triple-Dual-2u-LED
+
+
+0
+21
+4
+cipulot_parts
+Triple-Dual-2u-LED-stab-flip
+
+
+0
+21
+4
 cipulot_parts
 USB-A-Generic
 
@@ -85603,6 +86548,27 @@ USB-A-Generic
 6
 5
 cipulot_parts
+USB-C-12-Pin-MidMount
+
+
+0
+16
+13
+cipulot_parts
+USB-Mini-B_ LCSC-C46398
+
+
+0
+9
+6
+cipulot_parts
+USB-Mini-B_2leg
+
+
+0
+7
+6
+cipulot_parts
 USB_C_GCT_USB4085
 
 
@@ -85610,12 +86576,26 @@ USB_C_GCT_USB4085
 20
 17
 cipulot_parts
+USB_miniB_HandSolder
+http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
+USB miniB hirose
+0
+9
+9
+cipulot_parts
 USON-TPDxE05U06
 
 
 0
 10
 10
+cipulot_parts
+VIA-0.6mm
+
+
+0
+1
+1
 cipulot_parts
 WS2812B
 
@@ -85652,6 +86632,20 @@ Wurth-632723300011-MaximumExtensionMount
 32
 27
 cipulot_parts
+breakaway-hole
+
+
+0
+0
+0
+cipulot_parts
+breakaway-hole-big
+
+
+0
+0
+0
+cipulot_parts
 breakaway-mousebites
 
 
@@ -85686,3 +86680,10 @@ rectangle_flower
 0
 0
 0
+cipulot_parts
+solder_jumper
+
+
+0
+2
+2

@@ -30,7 +30,7 @@ U 1 1 5986AE30
 P 10350 2000
 F 0 "SW2" H 10500 2110 50  0000 C CNN
 F 1 "SW_PUSH" H 10350 1920 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 10350 2000 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 10350 2000 50  0001 C CNN
 F 3 "" H 10350 2000 50  0000 C CNN
 	1    10350 2000
 	1    0    0    -1  
@@ -52,7 +52,7 @@ U 1 1 5986B47E
 P 11200 2000
 F 0 "SW3" H 11350 2110 50  0000 C CNN
 F 1 "SW_PUSH" H 11200 1920 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 11200 2000 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 11200 2000 50  0001 C CNN
 F 3 "" H 11200 2000 50  0000 C CNN
 	1    11200 2000
 	1    0    0    -1  
@@ -74,7 +74,7 @@ U 1 1 5986B48A
 P 12050 2000
 F 0 "SW4" H 12200 2110 50  0000 C CNN
 F 1 "SW_PUSH" H 12050 1920 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12050 2000 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12050 2000 50  0001 C CNN
 F 3 "" H 12050 2000 50  0000 C CNN
 	1    12050 2000
 	1    0    0    -1  
@@ -107,7 +107,7 @@ U 1 1 5986BAC3
 P 13750 2000
 F 0 "SW6" H 13900 2110 50  0000 C CNN
 F 1 "SW_PUSH" H 13750 1920 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 13750 2000 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 13750 2000 50  0001 C CNN
 F 3 "" H 13750 2000 50  0000 C CNN
 	1    13750 2000
 	1    0    0    -1  
@@ -129,7 +129,7 @@ U 1 1 5986C660
 P 9500 2600
 F 0 "SW7" H 9650 2710 50  0000 C CNN
 F 1 "SW_PUSH" H 9500 2520 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 9500 2600 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 9500 2600 50  0001 C CNN
 F 3 "" H 9500 2600 50  0000 C CNN
 	1    9500 2600
 	1    0    0    -1  
@@ -151,7 +151,7 @@ U 1 1 5986C66C
 P 10350 2600
 F 0 "SW8" H 10500 2710 50  0000 C CNN
 F 1 "SW_PUSH" H 10350 2520 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 10350 2600 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 10350 2600 50  0001 C CNN
 F 3 "" H 10350 2600 50  0000 C CNN
 	1    10350 2600
 	1    0    0    -1  
@@ -173,7 +173,7 @@ U 1 1 5986C678
 P 11200 2600
 F 0 "SW9" H 11350 2710 50  0000 C CNN
 F 1 "SW_PUSH" H 11200 2520 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 11200 2600 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 11200 2600 50  0001 C CNN
 F 3 "" H 11200 2600 50  0000 C CNN
 	1    11200 2600
 	1    0    0    -1  
@@ -195,7 +195,7 @@ U 1 1 5986C684
 P 12050 2600
 F 0 "SW10" H 12200 2710 50  0000 C CNN
 F 1 "SW_PUSH" H 12050 2520 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12050 2600 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12050 2600 50  0001 C CNN
 F 3 "" H 12050 2600 50  0000 C CNN
 	1    12050 2600
 	1    0    0    -1  
@@ -217,7 +217,7 @@ U 1 1 5986C690
 P 12900 2600
 F 0 "SW11" H 13050 2710 50  0000 C CNN
 F 1 "SW_PUSH" H 12900 2520 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12900 2600 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12900 2600 50  0001 C CNN
 F 3 "" H 12900 2600 50  0000 C CNN
 	1    12900 2600
 	1    0    0    -1  
@@ -239,7 +239,7 @@ U 1 1 5986C69C
 P 13750 2600
 F 0 "SW12" H 13900 2710 50  0000 C CNN
 F 1 "SW_PUSH" H 13750 2520 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 13750 2600 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 13750 2600 50  0001 C CNN
 F 3 "" H 13750 2600 50  0000 C CNN
 	1    13750 2600
 	1    0    0    -1  
@@ -261,7 +261,7 @@ U 1 1 5986C966
 P 9500 3250
 F 0 "SW13" H 9650 3360 50  0000 C CNN
 F 1 "SW_PUSH" H 9500 3170 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 9500 3250 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 9500 3250 50  0001 C CNN
 F 3 "" H 9500 3250 50  0000 C CNN
 	1    9500 3250
 	1    0    0    -1  
@@ -283,7 +283,7 @@ U 1 1 5986C972
 P 10350 3250
 F 0 "SW14" H 10500 3360 50  0000 C CNN
 F 1 "SW_PUSH" H 10350 3170 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 10350 3250 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 10350 3250 50  0001 C CNN
 F 3 "" H 10350 3250 50  0000 C CNN
 	1    10350 3250
 	1    0    0    -1  
@@ -305,7 +305,7 @@ U 1 1 5986C97E
 P 11200 3250
 F 0 "SW15" H 11350 3360 50  0000 C CNN
 F 1 "SW_PUSH" H 11200 3170 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 11200 3250 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 11200 3250 50  0001 C CNN
 F 3 "" H 11200 3250 50  0000 C CNN
 	1    11200 3250
 	1    0    0    -1  
@@ -327,7 +327,7 @@ U 1 1 5986C98A
 P 12050 3250
 F 0 "SW16" H 12200 3360 50  0000 C CNN
 F 1 "SW_PUSH" H 12050 3170 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12050 3250 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12050 3250 50  0001 C CNN
 F 3 "" H 12050 3250 50  0000 C CNN
 	1    12050 3250
 	1    0    0    -1  
@@ -349,7 +349,7 @@ U 1 1 5986C996
 P 12900 3250
 F 0 "SW17" H 13050 3360 50  0000 C CNN
 F 1 "SW_PUSH" H 12900 3170 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12900 3250 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12900 3250 50  0001 C CNN
 F 3 "" H 12900 3250 50  0000 C CNN
 	1    12900 3250
 	1    0    0    -1  
@@ -371,7 +371,7 @@ U 1 1 5986C9A2
 P 13750 3250
 F 0 "SW18" H 13900 3360 50  0000 C CNN
 F 1 "SW_PUSH" H 13750 3170 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 13750 3250 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 13750 3250 50  0001 C CNN
 F 3 "" H 13750 3250 50  0000 C CNN
 	1    13750 3250
 	1    0    0    -1  
@@ -393,7 +393,7 @@ U 1 1 5986C9AE
 P 9500 3850
 F 0 "SW19" H 9650 3960 50  0000 C CNN
 F 1 "SW_PUSH" H 9500 3770 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 9500 3850 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 9500 3850 50  0001 C CNN
 F 3 "" H 9500 3850 50  0000 C CNN
 	1    9500 3850
 	1    0    0    -1  
@@ -415,7 +415,7 @@ U 1 1 5986C9BA
 P 10350 3850
 F 0 "SW20" H 10500 3960 50  0000 C CNN
 F 1 "SW_PUSH" H 10350 3770 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 10350 3850 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 10350 3850 50  0001 C CNN
 F 3 "" H 10350 3850 50  0000 C CNN
 	1    10350 3850
 	1    0    0    -1  
@@ -437,7 +437,7 @@ U 1 1 5986C9C6
 P 11200 3850
 F 0 "SW21" H 11350 3960 50  0000 C CNN
 F 1 "SW_PUSH" H 11200 3770 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 11200 3850 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 11200 3850 50  0001 C CNN
 F 3 "" H 11200 3850 50  0000 C CNN
 	1    11200 3850
 	1    0    0    -1  
@@ -459,7 +459,7 @@ U 1 1 5986C9D2
 P 12050 3850
 F 0 "SW22" H 12200 3960 50  0000 C CNN
 F 1 "SW_PUSH" H 12050 3770 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12050 3850 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12050 3850 50  0001 C CNN
 F 3 "" H 12050 3850 50  0000 C CNN
 	1    12050 3850
 	1    0    0    -1  
@@ -481,7 +481,7 @@ U 1 1 5986C9DE
 P 12900 3850
 F 0 "SW23" H 13050 3960 50  0000 C CNN
 F 1 "SW_PUSH" H 12900 3770 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12900 3850 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12900 3850 50  0001 C CNN
 F 3 "" H 12900 3850 50  0000 C CNN
 	1    12900 3850
 	1    0    0    -1  
@@ -503,7 +503,7 @@ U 1 1 5986C9EA
 P 13750 3850
 F 0 "SW24" H 13900 3960 50  0000 C CNN
 F 1 "SW_PUSH" H 13750 3770 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 13750 3850 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 13750 3850 50  0001 C CNN
 F 3 "" H 13750 3850 50  0000 C CNN
 	1    13750 3850
 	1    0    0    -1  
@@ -677,7 +677,7 @@ U 1 1 59B8D894
 P 9500 4450
 F 0 "SW26" H 9650 4560 50  0000 C CNN
 F 1 "SW_PUSH" H 9500 4370 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 9500 4450 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 9500 4450 50  0001 C CNN
 F 3 "" H 9500 4450 50  0000 C CNN
 	1    9500 4450
 	1    0    0    -1  
@@ -699,7 +699,7 @@ U 1 1 59B8D8A0
 P 10350 4450
 F 0 "SW27" H 10500 4560 50  0000 C CNN
 F 1 "SW_PUSH" H 10350 4370 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 10350 4450 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 10350 4450 50  0001 C CNN
 F 3 "" H 10350 4450 50  0000 C CNN
 	1    10350 4450
 	1    0    0    -1  
@@ -721,7 +721,7 @@ U 1 1 59B8D8AC
 P 11200 4450
 F 0 "SW28" H 11350 4560 50  0000 C CNN
 F 1 "SW_PUSH" H 11200 4370 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 11200 4450 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 11200 4450 50  0001 C CNN
 F 3 "" H 11200 4450 50  0000 C CNN
 	1    11200 4450
 	1    0    0    -1  
@@ -743,7 +743,7 @@ U 1 1 59B8D8B8
 P 12050 4450
 F 0 "SW29" H 12200 4560 50  0000 C CNN
 F 1 "SW_PUSH" H 12050 4370 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12050 4450 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12050 4450 50  0001 C CNN
 F 3 "" H 12050 4450 50  0000 C CNN
 	1    12050 4450
 	1    0    0    -1  
@@ -765,7 +765,7 @@ U 1 1 59B8D8C4
 P 12900 4450
 F 0 "SW30" H 13050 4560 50  0000 C CNN
 F 1 "SW_PUSH" H 12900 4370 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12900 4450 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12900 4450 50  0001 C CNN
 F 3 "" H 12900 4450 50  0000 C CNN
 	1    12900 4450
 	1    0    0    -1  
@@ -787,7 +787,7 @@ U 1 1 59B8D8D0
 P 13750 4450
 F 0 "SW31" H 13900 4560 50  0000 C CNN
 F 1 "SW_PUSH" H 13750 4370 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 13750 4450 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 13750 4450 50  0001 C CNN
 F 3 "" H 13750 4450 50  0000 C CNN
 	1    13750 4450
 	1    0    0    -1  
@@ -937,7 +937,7 @@ U 1 1 5A04BA4A
 P 14600 3850
 F 0 "SW25" H 14750 3960 50  0000 C CNN
 F 1 "SW_PUSH" H 14600 3770 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 14600 3850 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 14600 3850 50  0001 C CNN
 F 3 "" H 14600 3850 50  0000 C CNN
 	1    14600 3850
 	1    0    0    -1  
@@ -948,7 +948,7 @@ U 1 1 5A04C914
 P 14600 4450
 F 0 "SW32" H 14750 4560 50  0000 C CNN
 F 1 "SW_PUSH" H 14600 4370 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 14600 4450 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 14600 4450 50  0001 C CNN
 F 3 "" H 14600 4450 50  0000 C CNN
 	1    14600 4450
 	1    0    0    -1  
@@ -1736,7 +1736,7 @@ U 1 1 5986AC91
 P 9500 2000
 F 0 "SW1" H 9650 2110 50  0000 C CNN
 F 1 "SW_PUSH" H 9500 1920 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 9500 2000 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 9500 2000 50  0001 C CNN
 F 3 "" H 9500 2000 50  0000 C CNN
 	1    9500 2000
 	1    0    0    -1  
@@ -2305,7 +2305,7 @@ U 1 1 5986BAB7
 P 12900 2000
 F 0 "SW5" H 13050 2110 50  0000 C CNN
 F 1 "SW_PUSH" H 12900 1920 50  0000 C CNN
-F 2 "Keyswitches:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12900 2000 50  0001 C CNN
+F 2 "cipulot_parts:Kailh_socket_PG1350_reversible_LEFT_nosilkangle" H 12900 2000 50  0001 C CNN
 F 3 "" H 12900 2000 50  0000 C CNN
 	1    12900 2000
 	1    0    0    -1  
