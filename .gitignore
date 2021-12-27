@@ -102,3 +102,4 @@ ENV/
 
 # kicad
 !*.lib
+./PCB/helixhschoc-backups
