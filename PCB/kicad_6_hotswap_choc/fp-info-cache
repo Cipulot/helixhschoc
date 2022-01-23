@@ -1,4 +1,4 @@
-20652540070515702
+20659104042343742
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84938,6 +84938,13 @@ Double_flower_helix
 0
 0
 cipulot_parts
+ECmodule
+Through hole straight pin header, 1x16, 1.27mm pitch, single row
+Through hole pin header THT 1x16 1.27mm single row
+0
+16
+16
+cipulot_parts
 Elite-C
 
 
@@ -85399,6 +85406,13 @@ QFP 0.5
 0
 48
 48
+cipulot_parts
+Legends
+
+
+0
+0
+0
 cipulot_parts
 Low-Profile-Choc-MX
 
@@ -88108,6 +88122,20 @@ chil
 0
 0
 0
+cipulot_parts
+ecs_pad
+ StepUp generated footprint
+
+0
+3
+3
+cipulot_parts
+ecs_pad_4port
+ StepUp generated footprint
+
+0
+5
+3
 cipulot_parts
 qmk_logo
 
